@@ -1,0 +1,27 @@
+{
+  "name": "Takwim Pintar 2027 - SK Parit Markom",
+  "short_name": "Takwim 2027",
+  "description": "Takwim Pintar 2027 Sekolah Kebangsaan Parit Markom - program sekolah, cuti Johor, perayaan dan emolumen.",
+  "lang": "ms-MY",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7ff",
+  "theme_color": "#5b4ee8",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://iili.io/nUnqzG4.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://iili.io/nUnqzG4.md.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
